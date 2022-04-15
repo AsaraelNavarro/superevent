@@ -1,0 +1,200 @@
+.superevent-821 .superevent-element.superevent-element-03242b1 > .superevent-container {
+	max-width: 1350px;
+}
+.superevent-821 .superevent-element.superevent-element-03242b1:not(.superevent-motion-effects-element-type-background),
+.superevent-821 .superevent-element.superevent-element-03242b1 > .superevent-motion-effects-container > .superevent-motion-effects-layer {
+	background-color: #0b254f;
+}
+.superevent-821 .superevent-element.superevent-element-03242b1 {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+	padding: 60px 0px 60px 0px;
+}
+.superevent-821 .superevent-element.superevent-element-03242b1 > .superevent-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.superevent-821 .superevent-element.superevent-element-09367bf {
+	text-align: left;
+}
+.superevent-821 .superevent-element.superevent-element-09367bf img {
+	width: 150px;
+}
+.superevent-821 .superevent-element.superevent-element-3f01ba5 .superevent-spacer-inner {
+	height: 30px;
+}
+.superevent-821 .superevent-element.superevent-element-8e52e8f .superevent-repeater-item-c1889b1.superevent-social-icon {
+	background-color: #0b254f;
+}
+.superevent-821 .superevent-element.superevent-element-8e52e8f .superevent-repeater-item-8458f39.superevent-social-icon {
+	background-color: #0b254f;
+}
+.superevent-821 .superevent-element.superevent-element-8e52e8f .superevent-repeater-item-8f60cbd.superevent-social-icon {
+	background-color: #0b254f;
+}
+.superevent-821 .superevent-element.superevent-element-8e52e8f {
+	--grid-template-columns: repeat(0, auto);
+	--grid-column-gap: 5px;
+	--grid-row-gap: 0px;
+}
+.superevent-821 .superevent-element.superevent-element-8e52e8f .superevent-widget-container {
+	text-align: left;
+}
+.superevent-821 .superevent-element.superevent-element-d318dee .superevent-icon-list-items:not(.superevent-inline-items) .superevent-icon-list-item:not(:last-child) {
+	padding-bottom: calc(95px / 2);
+}
+.superevent-821 .superevent-element.superevent-element-d318dee .superevent-icon-list-items:not(.superevent-inline-items) .superevent-icon-list-item:not(:first-child) {
+	margin-top: calc(95px / 2);
+}
+.superevent-821 .superevent-element.superevent-element-d318dee .superevent-icon-list-items.superevent-inline-items .superevent-icon-list-item {
+	margin-right: calc(95px / 2);
+	margin-left: calc(95px / 2);
+}
+.superevent-821 .superevent-element.superevent-element-d318dee .superevent-icon-list-items.superevent-inline-items {
+	margin-right: calc(-95px / 2);
+	margin-left: calc(-95px / 2);
+}
+body.rtl .superevent-821 .superevent-element.superevent-element-d318dee .superevent-icon-list-items.superevent-inline-items .superevent-icon-list-item:after {
+	left: calc(-95px / 2);
+}
+body:not(.rtl) .superevent-821 .superevent-element.superevent-element-d318dee .superevent-icon-list-items.superevent-inline-items .superevent-icon-list-item:after {
+	right: calc(-95px / 2);
+}
+.superevent-821 .superevent-element.superevent-element-d318dee {
+	--e-icon-list-icon-size: 14px;
+}
+.superevent-821 .superevent-element.superevent-element-d318dee .superevent-icon-list-text {
+	color: #ffffff;
+}
+.superevent-821 .superevent-element.superevent-element-05d3805 .superevent-heading-title {
+	color: #ffffff;
+	font-weight: bold;
+	line-height: 1.2em;
+}
+.superevent-821 .superevent-element.superevent-element-841ab4b .superevent-repeater-item-c1889b1.superevent-social-icon {
+	background-color: #0b254f;
+}
+.superevent-821 .superevent-element.superevent-element-841ab4b .superevent-repeater-item-8458f39.superevent-social-icon {
+	background-color: #0b254f;
+}
+.superevent-821 .superevent-element.superevent-element-841ab4b .superevent-repeater-item-8f60cbd.superevent-social-icon {
+	background-color: #0b254f;
+}
+.superevent-821 .superevent-element.superevent-element-841ab4b {
+	--grid-template-columns: repeat(0, auto);
+	--grid-column-gap: 5px;
+	--grid-row-gap: 0px;
+}
+.superevent-821 .superevent-element.superevent-element-841ab4b .superevent-widget-container {
+	text-align: left;
+}
+.superevent-821 .superevent-element.superevent-element-424b048 .superevent-button {
+	font-weight: bold;
+	fill: #2190ed;
+	color: #2190ed;
+	background-color: #ffffff;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #ffffff;
+}
+.superevent-821 .superevent-element.superevent-element-424b048 .superevent-button:hover,
+.superevent-821 .superevent-element.superevent-element-424b048 .superevent-button:focus {
+	color: #ffffff;
+	background-color: #0e63ab;
+	border-color: #0e63ab;
+}
+.superevent-821 .superevent-element.superevent-element-424b048 .superevent-button:hover svg,
+.superevent-821 .superevent-element.superevent-element-424b048 .superevent-button:focus svg {
+	fill: #ffffff;
+}
+.superevent-821 .superevent-element.superevent-element-424b048 > .superevent-widget-container {
+	margin: 0px 15px 10px 0px;
+}
+.superevent-821 .superevent-element.superevent-element-424b048 {
+	width: auto;
+	max-width: auto;
+}
+.superevent-821 .superevent-element.superevent-element-4f7b1e9 .superevent-button {
+	font-weight: bold;
+	fill: #ffffff;
+	color: #ffffff;
+	background-color: #2190ed;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #2190ed;
+}
+.superevent-821 .superevent-element.superevent-element-4f7b1e9 .superevent-button:hover,
+.superevent-821 .superevent-element.superevent-element-4f7b1e9 .superevent-button:focus {
+	color: #ffffff;
+	background-color: #0e63ab;
+	border-color: #0e63ab;
+}
+.superevent-821 .superevent-element.superevent-element-4f7b1e9 .superevent-button:hover svg,
+.superevent-821 .superevent-element.superevent-element-4f7b1e9 .superevent-button:focus svg {
+	fill: #ffffff;
+}
+.superevent-821 .superevent-element.superevent-element-4f7b1e9 > .superevent-widget-container {
+	margin: 0px 15px 10px 0px;
+}
+.superevent-821 .superevent-element.superevent-element-4f7b1e9 {
+	width: auto;
+	max-width: auto;
+}
+@media (max-width: 1024px) {
+	.superevent-821 .superevent-element.superevent-element-e9863c5 > .superevent-element-populated {
+		padding: 10px 10px 30px 10px;
+	}
+	.superevent-821 .superevent-element.superevent-element-3f01ba5 .superevent-spacer-inner {
+		height: 10px;
+	}
+}
+@media (min-width: 768px) {
+	.superevent-821 .superevent-element.superevent-element-e9863c5 {
+		width: 25.222%;
+	}
+	.superevent-821 .superevent-element.superevent-element-9bc8bf2 {
+		width: 46.963%;
+	}
+	.superevent-821 .superevent-element.superevent-element-b01c0f0 {
+		width: 27.815%;
+	}
+}
+@media (max-width: 1024px) and (min-width: 768px) {
+	.superevent-821 .superevent-element.superevent-element-e9863c5 {
+		width: 50%;
+	}
+	.superevent-821 .superevent-element.superevent-element-9bc8bf2 {
+		width: 50%;
+	}
+	.superevent-821 .superevent-element.superevent-element-b01c0f0 {
+		width: 100%;
+	}
+}
+@media (max-width: 767px) {
+	.superevent-821 .superevent-element.superevent-element-03242b1 {
+		padding: 60px 0px 30px 0px;
+	}
+	.superevent-821 .superevent-element.superevent-element-09367bf img {
+		width: 180px;
+	}
+	.superevent-821 .superevent-element.superevent-element-3f01ba5 .superevent-spacer-inner {
+		height: 30px;
+	}
+	.superevent-821 .superevent-element.superevent-element-841ab4b > .superevent-widget-container {
+		margin: 0px 20px 0px 0px;
+	}
+	.superevent-821 .superevent-element.superevent-element-841ab4b {
+		width: auto;
+		max-width: auto;
+	}
+	.superevent-821 .superevent-element.superevent-element-424b048 {
+		width: 100%;
+		max-width: 100%;
+	}
+	.superevent-821 .superevent-element.superevent-element-4f7b1e9 > .superevent-widget-container {
+		margin: 0px 0px 0px 0px;
+	}
+	.superevent-821 .superevent-element.superevent-element-4f7b1e9 {
+		width: auto;
+		max-width: auto;
+	}
+}
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */

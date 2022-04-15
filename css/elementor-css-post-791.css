@@ -1,0 +1,38 @@
+.superevent-791 .superevent-element.superevent-element-eb56b9f.superevent-position-right .superevent-image-box-img {
+	margin-left: 15px;
+}
+.superevent-791 .superevent-element.superevent-element-eb56b9f.superevent-position-left .superevent-image-box-img {
+	margin-right: 15px;
+}
+.superevent-791 .superevent-element.superevent-element-eb56b9f.superevent-position-top .superevent-image-box-img {
+	margin-bottom: 15px;
+}
+.superevent-791 .superevent-element.superevent-element-eb56b9f .superevent-image-box-wrapper .superevent-image-box-img {
+	width: 30%;
+}
+.superevent-791 .superevent-element.superevent-element-eb56b9f .superevent-image-box-img img {
+	transition-duration: 0.3s;
+}
+.superevent-791 .superevent-element.superevent-element-eb56b9f .superevent-image-box-title {
+	font-weight: bold;
+}
+.superevent-791 .superevent-element.superevent-element-eb56b9f > .superevent-widget-container {
+	padding: 30px 30px 30px 30px;
+	background-color: #ffffff;
+	border-radius: 15px 15px 15px 15px;
+	box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.15);
+}
+.jet-listing-item.single-jet-engine.superevent-page-791 > .superevent {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+@media (max-width: 767px) {
+	.superevent-791 .superevent-element.superevent-element-eb56b9f .superevent-image-box-img {
+		margin-bottom: 15px;
+	}
+	.superevent-791 .superevent-element.superevent-element-eb56b9f .superevent-image-box-title {
+		font-size: 18px;
+	}
+}
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */

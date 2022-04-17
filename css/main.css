@@ -344,6 +344,12 @@ body {
 .heading-title {
 	position: relative;
 }
+
+h2.heading-title {
+	font-size: 28px;
+
+	color: var(--primary-color);
+}
 .superevent-button-content-wrapper {
 	display: flex;
 }
@@ -571,13 +577,13 @@ b.choose-us-line::after {
 	content: "";
 	background: url("/images/Raya.svg");
 	position: absolute;
-	width: 180px;
+	width: 160px;
 	height: 100%;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: contain;
 	top: 22px;
-	right: -5px;
+	right: -10px;
 }
 /*Section Organizers*/
 .organizers {
@@ -924,11 +930,6 @@ b.choose-us-line::after {
 	border-radius: 25px;
 	box-shadow: 15px 15px 30px 0px rgb(0 0 0 / 25%);
 	position: relative;
-}
-h2.heading-title {
-	font-size: 28px;
-	font-weight: bold;
-	color: var(--primary-color);
 }
 .pricing h3.heading-title {
 	font-size: 22px;
@@ -1294,11 +1295,11 @@ h2.heading-title {
 	}
 
 	.attendes .superevent-background-overlay {
-		background-image: linear-gradient(180deg, #2190ed 30%, #2190ed00 100%) !important;
+		background-image: linear-gradient(180deg, #2190ed 30%, #2190ed00 100%);
 	}
 
-	.subscribe .superevent-background-overlay {
-		background-image: linear-gradient(180deg, #2b3547 37%, #2b354799 100%) !important;
+	.subscribe-section .superevent-background-overlay {
+		background-image: linear-gradient(180deg, #2b3547 37%, #2b354799 100%);
 	}
 
 	.superevent-button-link {
@@ -1500,6 +1501,9 @@ h2.heading-title {
 	.subscribe-section {
 		max-width: 98%;
 		padding: 120px 80px;
+	}
+	.subscribe-section .background-overlay {
+		background-image: linear-gradient(180deg, #2b3547 37%, #2b354799 100%);
 	}
 
 	/*Footer*/

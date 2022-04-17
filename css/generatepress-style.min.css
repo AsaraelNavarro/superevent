@@ -161,11 +161,6 @@ button.menu-toggle:focus {
 .main-navigation .menu-bar-items .search-item.active > a {
 	color: var(--accent);
 }
-.main-navigation ul ul {
-	background-color: #ffffff;
-	border-bottom: 5px solid #2190ed;
-	border-radius: 6px;
-}
 .main-navigation .main-nav ul ul li a {
 	color: var(--contrast);
 }

@@ -4,6 +4,7 @@
 @import "_menu-plus-functions-css-navigation-branding-flex.scss";
 :root {
 	--primary-color: #2190ed;
+	--light-primary-color: #ecf5fd;
 	--secondary-color: #0e63ab;
 	--accent-color: #0b254f;
 	--text-color: #333333;
@@ -1433,9 +1434,10 @@ b.choose-us-line {
 			}
 
 			+ .accordion-content {
+				background-color: var(--light-primary-color);
 				opacity: 1;
 				max-height: 12em;
-				overflow-y: scroll;
+				overflow-y: auto;
 				transition: all 200ms linear;
 				will-change: opacity, max-height;
 			}
@@ -1443,6 +1445,7 @@ b.choose-us-line {
 	}
 
 	.accordion-content {
+		padding: 0 20px;
 		opacity: 0;
 		max-height: 0;
 		overflow: hidden;

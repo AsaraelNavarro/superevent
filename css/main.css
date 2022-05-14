@@ -2751,6 +2751,7 @@ button.slideout-exit:hover {
 /*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
 :root {
   --primary-color: #2190ed;
+  --light-primary-color: #ecf5fd;
   --secondary-color: #0e63ab;
   --accent-color: #0b254f;
   --text-color: #333333;
@@ -4271,15 +4272,17 @@ b.choose-us-line::after {
 }
 
 .accordion button[aria-expanded="true"] + .accordion-content {
+  background-color: var(--light-primary-color);
   opacity: 1;
   max-height: 12em;
-  overflow-y: scroll;
+  overflow-y: auto;
   -webkit-transition: all 200ms linear;
   transition: all 200ms linear;
   will-change: opacity, max-height;
 }
 
 .accordion .accordion-content {
+  padding: 0 20px;
   opacity: 0;
   max-height: 0;
   overflow: hidden;
